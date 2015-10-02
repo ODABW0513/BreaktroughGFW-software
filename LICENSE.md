@@ -1,8 +1,12 @@
 /*
  * ----------------------------------------------------------------------------
- * "THE BEER-WARE LICENSE" (Revision 42):
- * <1027867924@qq.com> wrote this file. As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a hot-chocolate in return me
+ * "THE HOT-CHOCOLATE LICENSE" (Vision 1):
+ * Because GPL license is too long,and I think no one will be boring enough to 
+ * read the hole license of GPL, so I use the  the beer-ware licence as the 
+ * base of this license.
+ * So, I aot a distrubtor, I`m just combined them together. every Software 
+ * use their own license.
+ * if you feel better about this combined, buy me a hot-chocolate if we meet.
+ * wrote by <1027867924@qq.com>. In Maple leaf countery at somewhere.
  * ----------------------------------------------------------------------------
  */
